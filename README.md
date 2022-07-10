@@ -14,7 +14,7 @@ I'm passionate about tech and problem solving, with a huge creative itch.
 
 | 1<sup>st</sup> year - 1<sup>st</sup> semester | |
 | --- | :---: |
-| Laboratórios de Informática I  [Project](https://github.com/eramsodoiseuros/ProjetoLI1) |
+| Laboratórios de Informática I | [Project](https://github.com/eramsodoiseuros/ProjetoLI1) |
 
 
 | 1<sup>st</sup> year - 2<sup>nd</sup> semester | |
