@@ -13,6 +13,10 @@ I'm passionate about tech and problem solving, with a huge creative itch.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eramsodoiseuros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+## 💻 Main Programing Languages / Software Used
+  
+  (C, Java, Python, C++, mySQL, ...)
+  
 <div style="display: inline_block"><br>
   <img align="center" alts="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -53,11 +57,3 @@ I'm passionate about tech and problem solving, with a huge creative itch.
 | Computação Gráfica | [Project](https://github.com/eramsodoiseuros/CG2022) in C++ |
 | Processamento de Linguagens | [Projects](https://github.com/eramsodoiseuros/PL) in Python |
 
-## 💻 Main Programing Languages
-
-- C
-- Java
-- Python
-- MySQL
-- Haskell
-- C++
