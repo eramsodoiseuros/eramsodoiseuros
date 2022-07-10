@@ -28,12 +28,14 @@ I'm passionate about tech and problem solving, with a huge creative itch.
 | Laboratórios de Informática III | [Projects](https://github.com/eramsodoiseuros/ProjetoLI3) with both a C and Java version |
 
 | 3<sup>rd</sup> year - 1<sup>st</sup> semester | |
+| --- | :---: |
 | Redes de Computadores | [Projects](https://github.com/eramsodoiseuros/RC) |
-| Bases de Dados | [Project](https://github.com/eramsodoiseuros/BD) |
+| Bases de Dados | [Project](https://github.com/eramsodoiseuros/BD) in MySQL and NoSQL |
 
 | 3<sup>rd</sup> year - 2<sup>nd</sup> semester | |
-| Computação Gráfica | [Project](https://github.com/eramsodoiseuros/CG2022) |
-| Processamento de Linguagens | [Projects](https://github.com/eramsodoiseuros/PL) |
+| --- | :---: |
+| Computação Gráfica | [Project](https://github.com/eramsodoiseuros/CG2022) in C++ |
+| Processamento de Linguagens | [Projects](https://github.com/eramsodoiseuros/PL) in Python |
 
 ## 💻 Main Programing Languages
 
