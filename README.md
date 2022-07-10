@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 😊</h1>
+<h1 align="center">Hello there! 🤠</h1>
 
 I'm a master's student at University of Minho, currently exploring Software Engineering 👩‍💻. 
 
