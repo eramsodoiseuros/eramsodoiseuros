@@ -7,8 +7,11 @@ I'm a master's student at University of Minho, currently exploring Software Engi
 I was born and raised in Porto, Portugal, where I currently live.
 I'm passionate about tech and problem solving, with a huge creative itch.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eramsodoiseuros&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eramsodoiseuros&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/eramsodoiseuros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eramsodoiseuros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eramsodoiseuros&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## 🎓 Past Projects
 
