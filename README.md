@@ -31,28 +31,35 @@ I'm passionate about tech and problem solving, with a huge creative itch.
   
 ## 🎓 Past Projects
 
-| 1<sup>st</sup> year - 1<sup>st</sup> semester | |
-| --- | :---: |
-| Laboratórios de Informática I | [Project](https://github.com/eramsodoiseuros/ProjetoLI1) in Haskell |
+| 1<sup>st</sup> year - 1<sup>st</sup> semester | | Graded |
+| --- | :---: | :---: |
+| Laboratórios de Informática I | [Project](https://github.com/eramsodoiseuros/ProjetoLI1) in Haskell | 17 out of 20 |
 
 
-| 1<sup>st</sup> year - 2<sup>nd</sup> semester | |
-| --- | :---: |
-| Laboratórios de Informática II | [Project](https://github.com/eramsodoiseuros/ProjetoLI2) in C |
+| 1<sup>st</sup> year - 2<sup>nd</sup> semester | | Graded |
+| --- | :---: | :---: |
+| Laboratórios de Informática II | [Project](https://github.com/eramsodoiseuros/ProjetoLI2) in C | 14 out of 20 |
 
-| 2<sup>nd</sup> year - 2<sup>nd</sup> semester | |
-| --- | :---: |
-| Programação Orientada aos Objetos | [Project](https://github.com/eramsodoiseuros/Prog-Orientada-Objetos) in Java |
-| Sistemas Operativos | [Project](https://github.com/eramsodoiseuros/SistemasOperativos) in C |
-| Laboratórios de Informática III | [Projects](https://github.com/eramsodoiseuros/ProjetoLI3) with both a C and Java version |
+| 2<sup>nd</sup> year - 1<sup>nd</sup> semester | | Graded |
+| --- | :---: | :---: |
+| Redes de Computadores | [Projects](https://github.com/eramsodoiseuros/RC) | 18 out of 20 |
 
-| 3<sup>rd</sup> year - 1<sup>st</sup> semester | |
-| --- | :---: |
-| Redes de Computadores | [Projects](https://github.com/eramsodoiseuros/RC) |
-| Bases de Dados | [Project](https://github.com/eramsodoiseuros/BD) in MySQL and NoSQL |
+| 2<sup>nd</sup> year - 2<sup>nd</sup> semester | | Graded |
+| --- | :---: | :---: |
+| Programação Orientada aos Objetos | [Project](https://github.com/eramsodoiseuros/Prog-Orientada-Objetos) in Java | 15 out of 20 |
+| Laboratórios de Informática III | [Projects](https://github.com/eramsodoiseuros/ProjetoLI3) with both a C and Java version | 15 out of 20 |
+| Bases de Dados | [Project](https://github.com/eramsodoiseuros/BD) in MySQL | 16 out of 20 |
+| Sistemas Operativos | [Project](https://github.com/eramsodoiseuros/SistemasOperativos) in C | 18 out of 20 |
 
-| 3<sup>rd</sup> year - 2<sup>nd</sup> semester | |
-| --- | :---: |
-| Computação Gráfica | [Project](https://github.com/eramsodoiseuros/CG2022) in C++ |
-| Processamento de Linguagens | [Projects](https://github.com/eramsodoiseuros/PL) in Python |
+| 3<sup>rd</sup> year - 1<sup>st</sup> semester | | Graded |
+| --- | :---: | :---: |
+| Comunicações por Computador | [Project](https://github.com/eramsodoiseuros/FolderFastSync) in Java | 15 out of 20 |
+| Desenvolvimento de Sistemas de Software | [Project](https://github.com/eramsodoiseuros/Desenvolvimento-Sistemas-Software) in Java and UML | 15.45 out of 20 |
+
+| 3<sup>rd</sup> year - 2<sup>nd</sup> semester | | Graded |
+| --- | :---: | :---: |
+| Inteligência Artificial | [Project]() in Prolog --lembrar de colocar no git-- | 14 out of 20 |
+| Aprendizagem e Decisão Inteligentes | [Project](https://github.com/eramsodoiseuros/ML-KNIME) | 14 out of 20 |
+| Computação Gráfica | [Project](https://github.com/eramsodoiseuros/CG2022) in C++ | 16.45 out of 20 |
+| Processamento de Linguagens | [Projects](https://github.com/eramsodoiseuros/PL) in Python + Imperative Programing Language made by the Group | 18 out of 20 |
 
