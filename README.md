@@ -13,9 +13,12 @@ I'm passionate about tech and problem solving, with a huge creative itch.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eramsodoiseuros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 💻 Main Programing Languages / Software Used
+## 💻 Main Programing Languages / Software Used Before with Proficiency
   
-  (C, Java, Python, C++, mySQL, ...)
+  - C, Java, Python, C++, mySQL
+  - C++, Haskell, XML, HTML
+  - .Net, Azure, AWS, GCP
+  
 <div style="display: inline_block"><br>
   <img align="center" alts="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,8 +28,7 @@ I'm passionate about tech and problem solving, with a huge creative itch.
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Cmake" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-          
+  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">     
 </div>
   
 ## 🎓 Past Projects
