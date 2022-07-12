@@ -65,3 +65,14 @@ I'm passionate about tech and problem solving, with a huge creative itch.
 | Computação Gráfica | [Project](https://github.com/eramsodoiseuros/CG2022) in C++ | 16.45 out of 20 |
 | Processamento de Linguagens | [Projects](https://github.com/eramsodoiseuros/PL) in Python + Imperative Programing Language made by the Group | 18 out of 20 |
 
+# 🎓 Master's Projects
+  
+| 1<sup>rd</sup> year - 1<sup>nd</sup> semester | | Graded |
+| --- | :---: | :---: |
+| Computação Paralela | [Project](https://github.com/eramsodoiseuros/Computacao-Paralela) in C using PAPI lib | 14 out of 20 |
+| Aplicações e Serviços de Computação em Nuvem | [Project](https://github.com/eramsodoiseuros/ASCN) with Ansible, deployment with Kubernetes on GCP | 14.5 out of 20 |
+| Requisitos e Arquiteturas de Software | [Project](https://github.com/eramsodoiseuros/Requisitios-Arquitetura-Software) in Java and UML | 17 out of 20 |
+  
+| 1<sup>rd</sup> year - 2<sup>nd</sup> semester | | Graded |
+| --- | :---: | :---: |
+| Programação Ciber-Física | [Projects](https://github.com/eramsodoiseuros/PCF) in UPPAAL and Haskell | 17 out of 20 |
