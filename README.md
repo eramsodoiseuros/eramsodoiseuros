@@ -30,7 +30,15 @@ I'm passionate about tech and problem solving, with a huge creative itch.
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">     
 </div>
-  
+
+## 🤖 Currently working on
+
+Developing my Python skills while building API interfaces and Discord Bots.
+
+Exploring the startup world by co founding a SaaS Web App.
+
+Learning about Web3 integrations on Solana, on Python, TypeScript and JavaScript.
+
 ## 🎓 Past Projects
 
 | 1<sup>st</sup> year - 1<sup>st</sup> semester | | Graded |
