@@ -7,12 +7,6 @@ I'm a master's student at University of Minho, currently exploring Software Engi
 I was born and raised in Porto, Portugal, where I currently live.
 I'm passionate about tech and problem solving, with a huge creative itch.
 
-<div>
-  <a href="https://github.com/eramsodoiseuros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eramsodoiseuros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eramsodoiseuros&layout=compact&theme=dracula"/>
-</div>
-
 ## 💻 Main Programing Languages / Software Used Before with Proficiency
   
   - C, Java, Python, C++, mySQL
