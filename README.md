@@ -9,8 +9,8 @@ I'm passionate about tech and problem solving, with a huge creative itch.
 
 ## 💻 Main Programing Languages / Software Used Before with Proficiency
   
-  - C, Java, Python, C++, mySQL
-  - C++, Haskell, XML, HTML
+  - C, Java, Python
+  - C++, Haskell, MySQL
   - .Net, Azure, AWS, GCP
   
 <div style="display: inline_block"><br>
