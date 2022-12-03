@@ -69,7 +69,7 @@ Learning about Web3 integrations on Solana, on Python, TypeScript and JavaScript
 
 | 3<sup>rd</sup> year - 2<sup>nd</sup> semester | | Graded |
 | --- | :---: | :---: |
-| Inteligência Artificial | [Project]() in Prolog --lembrar de colocar no git-- | 14 out of 20 |
+| Inteligência Artificial | Project | 14 out of 20 |
 | Aprendizagem e Decisão Inteligentes | [Project](https://github.com/eramsodoiseuros/ML-KNIME) in Python and KNIME | 14 out of 20 |
 | Computação Gráfica | [Project](https://github.com/eramsodoiseuros/CG2022) in C++ | 16.45 out of 20 |
 | Processamento de Linguagens | [Projects](https://github.com/eramsodoiseuros/PL) in Python + Imperative Programing Language made by the Group | 18 out of 20 |
