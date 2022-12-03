@@ -40,6 +40,7 @@ Learning about Web3 integrations on Solana, on Python, TypeScript and JavaScript
 | --- | :---: | :---: |
 | Coinflip Game | [source-code](https://github.com/eramsodoiseuros/solana-coinflip) in Python | Solana |
 | Coinflip Game  | [source-code](https://github.com/eramsodoiseuros/ethereum-coinflip) in Solidity | Ethereum |
+| Coinflip Game  | [source-code](https://github.com/eramsodoiseuros/polygon-coinflip) in Solidity | Polygon |
 
 ## 🎓 Bachelor's Projects
 
