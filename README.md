@@ -33,7 +33,7 @@ Exploring the startup world by co founding a SaaS Web App.
 
 Learning about Web3 integrations on Solana, on Python, TypeScript and JavaScript.
 
-## Side Projects
+## 💻 Side Projects
 
 | Subject | PL | Blockchain |
 | --- | :---: | :---: |
