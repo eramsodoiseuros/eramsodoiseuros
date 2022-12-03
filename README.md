@@ -33,7 +33,14 @@ Exploring the startup world by co founding a SaaS Web App.
 
 Learning about Web3 integrations on Solana, on Python, TypeScript and JavaScript.
 
-## 🎓 Past Projects
+## Side Projects
+
+| Subject | PL | Blockchain |
+| --- | :---: | :---: |
+| Coinflip Game | [source-code](https://github.com/eramsodoiseuros/solana-coinflip) in Python | Solana |
+| Coinflip Game  | [source-code](https://github.com/eramsodoiseuros/ethereum-coinflip) in Solidity | Ethereum |
+
+## 🎓 College Projects
 
 | 1<sup>st</sup> year - 1<sup>st</sup> semester | | Graded |
 | --- | :---: | :---: |
