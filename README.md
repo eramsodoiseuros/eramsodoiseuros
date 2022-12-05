@@ -36,6 +36,10 @@ Learning about Web3 integrations on Solana, on Python, TypeScript and JavaScript
 
 ## 💻 Side Projects
 
+Most of my side Projects are highlighted by Programming Language on the Stars Tab on my Github, mainly Python and Java.
+
+I also have been looking into launching some web3 apps, which I have kept in private repositories, but here's a few basic examples to showcase some web3 blockchain contracts, for networks such as Solana, Ethereum and Python.
+
 | Subject | PL | Blockchain |
 | --- | :---: | :---: |
 | Coinflip Game | [source-code](https://github.com/eramsodoiseuros/solana-coinflip) in Python | Solana |
