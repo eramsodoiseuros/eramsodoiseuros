@@ -32,7 +32,7 @@ Developing my Python skills while building API interfaces and Discord Bots.
 
 Exploring the startup world by co founding a SaaS Web App.
 
-Learning about Web3 integrations on Solana, on Python, TypeScript and JavaScript.
+Learning about Web3 integrations on Solana, using Python, TypeScript and JavaScript.
 
 ## 💻 Side Projects
 
