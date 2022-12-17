@@ -87,6 +87,7 @@ I also have been looking into launching some web3 apps, which I have kept in pri
 | Computação Paralela | [Project](https://github.com/eramsodoiseuros/Computacao-Paralela) in C using PAPI lib | 14 out of 20 |
 | Aplicações e Serviços de Computação em Nuvem | [Project](https://github.com/eramsodoiseuros/ASCN) with Ansible, deployment with Kubernetes on GCP | 14.5 out of 20 |
 | Requisitos e Arquiteturas de Software | [Project](https://github.com/eramsodoiseuros/Requisitios-Arquitetura-Software) in Java and UML | 17 out of 20 |
+| Engenharia de Serviços de Rede | [Project](https://github.com/eramsodoiseuros/Network-Services-Engineering) in Python | TBD out of 20 |
   
 | 1<sup>rd</sup> year - 2<sup>nd</sup> semester | | Graded |
 | --- | :---: | :---: |
