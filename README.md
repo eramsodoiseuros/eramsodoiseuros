@@ -38,7 +38,7 @@ Learning about Web3 integrations on Solana, using Python, TypeScript and JavaScr
 
 Most of my side Projects are highlighted by Programming Language on the Stars Tab on my Github, mainly Python and Java.
 
-I also have been looking into launching some web3 apps, which I have kept in private repositories, but here's a few basic examples to showcase some web3 blockchain contracts, for networks such as Solana, Ethereum and Python.
+I also have been looking into launching some web3 apps, which I have kept in private repositories, but here's a few basic examples to showcase some web3 blockchain contracts, for networks such as Solana, Ethereum and Polygon.
 
 | Subject | PL | Blockchain |
 | --- | :---: | :---: |
