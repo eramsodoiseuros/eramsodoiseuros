@@ -88,7 +88,15 @@ I also have been looking into launching some web3 apps, which I have kept in pri
 | Aplicações e Serviços de Computação em Nuvem | [Project](https://github.com/eramsodoiseuros/ASCN) with Ansible, deployment with Kubernetes on GCP | 14.5 out of 20 |
 | Requisitos e Arquiteturas de Software | [Project](https://github.com/eramsodoiseuros/Requisitios-Arquitetura-Software) in Java and UML | 17 out of 20 |
 | Engenharia de Serviços de Rede | [Project](https://github.com/eramsodoiseuros/Network-Services-Engineering) in Python | 15.5 out of 20 |
+| Dados e Aprendizagem Automática | [Project]() in Python | 17 out of 20 |
+| Modelação em PL e FOL | [Project]() in Python | 5 out of 5 |
+| Modelação estrutural em Alloy | [Project]() in Alloy | 5 out of 5 |
+| Modelação comportamental em Alloy | [Project]() in Alloy | 5 out of 5 |
+| Desenvolvimento e verificação de sistemas com estado em Why3 | [Project]() in WhyML | 5 out of 5 |
   
 | 1<sup>rd</sup> year - 2<sup>nd</sup> semester | | Graded |
 | --- | :---: | :---: |
 | Programação Ciber-Física | [Projects](https://github.com/eramsodoiseuros/PCF) in UPPAAL and Haskell | 17 out of 20 |
+| Visão por Computador e Processamento de Imagem | [Projects](https://github.com/eramsodoiseuros/VCPI) in Python | 14 out of 20 |
+| Visualização e Iluminação | [Projects](https://github.com/eramsodoiseuros/VI) in C++ | 18 out of 20 |
+| Visualização em Tempo Real | [Projects](https://github.com/eramsodoiseuros/VTR) in Python | 16 out of 20 |
