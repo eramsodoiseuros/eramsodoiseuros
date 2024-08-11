@@ -6,7 +6,7 @@ I was born and raised in Porto, Portugal, where I currently live.
 
 Fullstack Engineer working with Java 17 & Angular 18 to optimize CRM and Customer Master Data solutions
 
-MSc in Functional Programming & Computer Vision/ML @ University of Minho**
+MSc in Functional Programming & Computer Vision/ML @ University of Minho
 
 ## 💻 Main Programing Languages / Software Used Before with Proficiency
   
