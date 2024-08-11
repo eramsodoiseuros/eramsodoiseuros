@@ -1,16 +1,20 @@
 <h1 align="center">Hello there! 🤠</h1>
 
-I'm a master's student at University of Minho, currently exploring Software Engineering 👩‍💻. 
+Fullstack Engineer working with Java 17 & Angular 18 to optimize CRM and Customer Master Data solutions
+
+MSc in Functional Programming & Computer Vision/ML @ University of Minho
 
 ## 😎 About me
 
 I was born and raised in Porto, Portugal, where I currently live.
-I'm passionate about tech and problem solving, with a huge creative itch.
+Currently exploring Software Engineering in Algorithmic Trading, as I'm extremely passionate about building robust, scalable systems and leveraging cutting-edge technologies to solve complex problems in quantitative finance.
+
+Open to collaborations in fintech, ML applications, and innovative software solutions.
 
 ## 💻 Main Programing Languages / Software Used Before with Proficiency
   
-  - C, Java, Python
-  - C++, Haskell, MySQL
+  - Java, Python, SQL
+  - Haskell, C, C++
   - .Net, Azure, AWS, GCP
   
 <div style="display: inline_block"><br>
