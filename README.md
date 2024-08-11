@@ -7,9 +7,6 @@ MSc in Functional Programming & Computer Vision/ML @ University of Minho
 ## 😎 About me
 
 I was born and raised in Porto, Portugal, where I currently live.
-Currently exploring Software Engineering in Algorithmic Trading, as I'm extremely passionate about building robust, scalable systems and leveraging cutting-edge technologies to solve complex problems in quantitative finance.
-
-Open to collaborations in fintech, ML applications, and innovative software solutions.
 
 ## 💻 Main Programing Languages / Software Used Before with Proficiency
   
@@ -32,11 +29,9 @@ Open to collaborations in fintech, ML applications, and innovative software solu
 
 ## 🤖 Currently working on
 
-Developing my Python skills while building API interfaces and Discord Bots.
+Exploring Software Engineering in Algorithmic Trading, as I'm extremely passionate about building robust, scalable systems and leveraging cutting-edge technologies to solve complex problems in quantitative finance.
 
-Exploring the startup world by co founding a SaaS Web App.
-
-Learning about Web3 integrations on Solana, using Python, TypeScript and JavaScript.
+Open to collaborations in fintech, ML applications, and innovative software solutions.
 
 ## 💻 Side Projects
 
