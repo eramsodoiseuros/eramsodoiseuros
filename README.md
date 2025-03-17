@@ -12,7 +12,7 @@ MSc in Functional Programming & Computer Vision/ML @ University of Minho
   
   - Java, Python, SQL
   - Haskell, C, C++
-  - .Net, Azure, AWS, GCP
+  - Kafka, RabbitMQ, AWS, GCP
   
 <div style="display: inline_block"><br>
   <img align="center" alts="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
