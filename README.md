@@ -4,7 +4,8 @@
 
 I was born and raised in Porto, Portugal, where I currently live.
 
-Fullstack Engineer working with Java 21 & Angular 18 to optimize CRM and Customer Master Data solutions
+**CTO @ [Smart Flows](https://smartflows.ai)** — building next‑gen workflow‑automation products with AI & low‑code tools.  
+**Full‑stack Software Engineer @ Kuehne + Nagel** — Java 23 & Angular 19 powering global CRM / Customer Master Data platforms.
 
 MSc in Functional Programming & Computer Vision/ML @ University of Minho
 
@@ -27,11 +28,10 @@ MSc in Functional Programming & Computer Vision/ML @ University of Minho
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">     
 </div>
 
-## 🤖 Currently working on
+## 🔨 Previous projects
 
-Exploring Software Engineering in Algorithmic Trading, as I'm extremely passionate about building robust, scalable systems and leveraging cutting-edge technologies to solve complex problems in quantitative finance.
-
-Open to collaborations in fintech, ML applications, and innovative software solutions.
+Completed an 8‑month (2024) internship at **Innovise Dubai Asset Holding** — engineered algorithmic‑trading software, delivering scalable systems and quantitative ML pipelines that empowered corporate trading desks.
+Always open to collaborations in **fintech**, **ML / AI**, and innovative software solutions 🚀
 
 ## 💻 Side Projects
 
