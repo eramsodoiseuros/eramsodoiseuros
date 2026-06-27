@@ -5,7 +5,7 @@
 I was born and raised in Porto, Portugal, where I currently live.
 
 - **CTO @ [Smart Flows](https://smart-flows.ai)** — building next‑gen workflow‑automation products with AI & low‑code tools.
-- **CTO @ [Play Kindred](https://www.playkindred.xyz/)** — building a retro-inspired adventure that blends life simulation and exploration. Launching soon on PlaySolana.
+- **[Play Kindred](https://www.playkindred.xyz/)** — building a retro-inspired adventure that blends life simulation and exploration. Launching soon on PlaySolana.
 - **Full‑stack Software Engineer @ Kuehne + Nagel** — Java 23 & Angular 19 powering global CRM / Customer Master Data platforms.
 
 MSc in Functional Programming & Computer Vision/ML @ University of Minho
