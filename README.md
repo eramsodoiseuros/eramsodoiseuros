@@ -6,7 +6,7 @@ Born and raised in Porto, Portugal, where I currently live.
 
 - **CTO @ [Smart Flows](https://smart-flows.ai)**: building AI-powered workflow automation. Systems live in production for clients in legal, healthcare, industrial distribution and field services — I own them from first commit to production support.
 - **Full-stack Software Engineer @ Kuehne + Nagel**: Java/Spring and Angular on a global customer master-data platform. Three and a half years spanning backend, frontend and platform work: event-driven contracts on Kafka (compacted topics, Avro schema evolution, idempotent consumers, a RabbitMQ→Kafka migration), an OpenTelemetry rollout landed across nine independently deployed services, distributed state-machine resiliency (retry schedulers, stuck-process watchdogs, self-healing recovery), and an operational tooling platform I created and own — 45 CLI tools that turn manual production investigations into repeatable, read-only procedures. Around 21% of my changes were tests. Winner of the **CDQ Good Practice Award 2025** (team award) for "GenAI for Business Partner Master Data": LLM-powered deduplication, enrichment and legal-entity grouping across millions of business-partner records.
-- **[Play Kindred](https://www.playkindred.xyz/)**: a retro-inspired adventure blending life simulation and exploration. Launching soon on PlaySolana.
+- **[Play Kindred](https://x.com/playkindredxyz)**: a retro-inspired adventure blending life simulation and exploration. Launching soon on PlaySolana.
 
 MSc in Informatics Engineering @ University of Minho. Master's thesis: *Event-Driven Architectures Using Apache Kafka*.
 
